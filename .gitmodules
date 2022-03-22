@@ -1,0 +1,11 @@
+[submodule "adas_adventure_addons"]
+	path = adas_adventure_addons
+	url = https://github.com/gregkrsak/adas_adventure_addons.git
+	branch = main
+[submodule "adas_adventure"]
+	path = adas_adventure
+	url = git@github.com:gregkrsak/adas_adventure.git
+	branch = main
+[submodule "godot"]
+	path = godot
+	url = https://github.com/godotengine/godot
